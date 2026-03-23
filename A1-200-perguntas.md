@@ -27,6 +27,107 @@
 
 ---
 
+Aqui estão os **verbos que aparecem nas frases** e suas **conjugações no presente (Präsens) 
+
+---
+
+## 1. **heißen** (chamar-se)
+
+| Pronome   | Conjugação |
+| --------- | ---------- |
+| ich       | heiße      |
+| du        | heißt      |
+| er/sie/es | heißt      |
+| wir       | heißen     |
+| ihr       | heißt      |
+| Sie       | heißen     |
+
+**Exemplo:**
+Ich heiße Eduardo.
+
+---
+
+## 2. **sein** (ser / estar) ⚠️ irregular
+
+| Pronome   | Conjugação |
+| --------- | ---------- |
+| ich       | bin        |
+| du        | bist       |
+| er/sie/es | ist        |
+| wir       | sind       |
+| ihr       | seid       |
+| Sie       | sind       |
+
+**Exemplos:**
+Ich bin Brasilianer.
+Sind Sie Brasilianer?
+
+---
+
+## 3. **kommen** (vir)
+
+| Pronome   | Conjugação |
+| --------- | ---------- |
+| ich       | komme      |
+| du        | kommst     |
+| er/sie/es | kommt      |
+| wir       | kommen     |
+| ihr       | kommt      |
+| Sie       | kommen     |
+
+**Exemplo:**
+Ich komme aus Brasilien.
+
+---
+
+## 4. **wohnen** (morar)
+
+| Pronome   | Conjugação |
+| --------- | ---------- |
+| ich       | wohne      |
+| du        | wohnst     |
+| er/sie/es | wohnt      |
+| wir       | wohnen     |
+| ihr       | wohnt      |
+| Sie       | wohnen     |
+
+**Exemplo:**
+Ich wohne in Basel.
+
+---
+
+## 5. **haben** (ter) ⚠️ irregular
+
+| Pronome   | Conjugação |
+| --------- | ---------- |
+| ich       | habe       |
+| du        | hast       |
+| er/sie/es | hat        |
+| wir       | haben      |
+| ihr       | habt       |
+| Sie       | haben      |
+
+**Exemplo:**
+Welche Nationalität haben Sie?
+
+---
+
+## 6. **leben** (viver)
+
+| Pronome   | Conjugação |
+| --------- | ---------- |
+| ich       | lebe       |
+| du        | lebst      |
+| er/sie/es | lebt       |
+| wir       | leben      |
+| ihr       | lebt       |
+| Sie       | leben      |
+
+**Exemplo:**
+Ich lebe in der Schweiz.
+
+---
+
 11. **Haben Sie Geschwister?**  Ja, ich habe einen Bruder und eine Schwester.
 12. **Wie alt ist Ihr Bruder?**  Er ist 48 Jahre alt.
 13. **Wie alt ist Ihre Schwester?**  Sie ist 42 Jahre alt.
