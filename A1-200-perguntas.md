@@ -12,6 +12,8 @@
 9. **Sind Sie aus Deutschland?**  Nein, ich komme aus Brasilien.
 10. **Wie alt sind Sie?**  Ich bin 45 Jahre alt.
 
+---
+
 1. Wie heißt du? Ich heiße Eduardo.
 2. Wie ist dein Name?  Mein Name ist Eduardo Cardoso.
 3. Woher kommst du?  Ich komme aus Brasilien.
