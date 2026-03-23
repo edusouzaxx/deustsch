@@ -12,16 +12,16 @@
 9. **Sind Sie aus Deutschland?**  Nein, ich komme aus Brasilien.
 10. **Wie alt sind Sie?**  Ich bin 45 Jahre alt.
 
-Wie heißt du? Ich heiße Eduardo.
-Wie ist dein Name?  Mein Name ist Eduardo Cardoso.
-Woher kommst du?  Ich komme aus Brasilien.
-Bist du Brasilianer? Ja, ich bin Brasilianer.
-Wo wohnst du? Ich wohne in Basel.
-In welcher Stadt wohnst du?  Ich wohne in Basel.
-Welche Nationalität hast du?  Ich bin Brasilianer. 
-Wo lebst du? Ich lebe in der Schweiz.
-Kommst du aus Deutschland?  Nein, ich komme aus Brasilien.
-Wie alt bist du?  Ich bin 45 Jahre alt.
+1. Wie heißt du? Ich heiße Eduardo.
+2. Wie ist dein Name?  Mein Name ist Eduardo Cardoso.
+3. Woher kommst du?  Ich komme aus Brasilien.
+4. Bist du Brasilianer? Ja, ich bin Brasilianer.
+5. Wo wohnst du? Ich wohne in Basel.
+6. In welcher Stadt wohnst du?  Ich wohne in Basel.
+7. Welche Nationalität hast du?  Ich bin Brasilianer. 
+8. Wo lebst du? Ich lebe in der Schweiz.
+9. Kommst du aus Deutschland?  Nein, ich komme aus Brasilien.
+10. Wie alt bist du?  Ich bin 45 Jahre alt.
 
 ---
 
